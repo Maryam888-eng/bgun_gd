@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41579450228",
+    "project_id": "bgnugd-d626b",
+    "storage_bucket": "bgnugd-d626b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41579450228:android:40b8c8e614890c3645a621",
+        "android_client_info": {
+          "package_name": "com.example.bgun_gd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0MgLRQH3swocBSAZTYnoAuNhhMQ7bNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41579450228:android:dd21a521233d025145a621",
+        "android_client_info": {
+          "package_name": "com.exemple.bgnu_gd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0MgLRQH3swocBSAZTYnoAuNhhMQ7bNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
